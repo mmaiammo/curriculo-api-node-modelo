@@ -1,0 +1,27 @@
+{
+  "name": "curriculo-react",
+  "version": "1.0.0",
+  "description": "App de gestão de curriculos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmaiammo/curriculo-react.git"
+  },
+  "keywords": [],
+  "author": "Marcelo Maia <mmaia.inf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmaiammo/curriculo-react/issues"
+  },
+  "homepage": "https://github.com/mmaiammo/curriculo-react#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.0"
+  }
+}
